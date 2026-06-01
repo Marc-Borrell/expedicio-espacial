@@ -1,0 +1,39 @@
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\Gestor de Expedicions Espacials.exe
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\Gestor de Expedicions Espacials.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.csproj.AssemblyReference.cache
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor_de_Expedicions_Espacials.passwTextBox.resources
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor_de_Expedicions_Espacials.Form2.resources
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor_de_Expedicions_Espacials.FormAstronautas.resources
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor_de_Expedicions_Espacials.FormNaves.resources
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor_de_Expedicions_Espacials.Properties.Resources.resources
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor_de_Expedicions_Espacials.Signup.resources
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.csproj.GenerateResource.cache
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.AssemblyInfoInputs.cache
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.AssemblyInfo.cs
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.csproj.CoreCompileInputs.cache
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor d.8F4E161C.Up2Date
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\refint\Gestor de Expedicions Espacials.dll
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.pdb
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\Gestor de Expedicions Espacials.deps.json
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\Gestor de Expedicions Espacials.runtimeconfig.json
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\bin\Debug\net8.0-windows\Gestor de Expedicions Espacials.pdb
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\Gestor de Expedicions Espacials.genruntimeconfig.cache
+C:\Users\marcb\source\repos\Gestor de Expedicions Espacials\obj\Debug\net8.0-windows\ref\Gestor de Expedicions Espacials.dll
